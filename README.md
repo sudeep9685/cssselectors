@@ -1,2 +1,2 @@
 # cssselectors
-This files under this repository specifies the concept of css selectors.
+Under this repository we understand the concept of css selectors.
