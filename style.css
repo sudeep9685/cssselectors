@@ -1,0 +1,32 @@
+body{
+    background-color: #460707;
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: #60c360;
+}
+.red{
+    color: #ff0000;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+#black{
+    color: black;
+    font-size: 25px;
+}
+
+ul a{
+    background-color: yellow;
+}
+span>a{
+    background-color: darkblue;
+}
+
